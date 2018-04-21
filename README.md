@@ -1,5 +1,6 @@
-# CTFwriteup
-My CTF Tourism Writeup.
+# XSS Game
+A trainning website provide by google.
+https://xss-game.appspot.com/
 
-## **CTF**
-CTF writeups and some exploit codes by NotSurprised
+## **XSS**
+Cross-site scripting (XSS) is a type of computer security vulnerability typically found in web applications.
